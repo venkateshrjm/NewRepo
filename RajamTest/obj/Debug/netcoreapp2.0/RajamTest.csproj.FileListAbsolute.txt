@@ -1,0 +1,11 @@
+C:\Users\venkatesh.j\source\repos\RajamTest\RajamTest\bin\Debug\netcoreapp2.0\RajamTest.deps.json
+C:\Users\venkatesh.j\source\repos\RajamTest\RajamTest\bin\Debug\netcoreapp2.0\RajamTest.runtimeconfig.json
+C:\Users\venkatesh.j\source\repos\RajamTest\RajamTest\bin\Debug\netcoreapp2.0\RajamTest.runtimeconfig.dev.json
+C:\Users\venkatesh.j\source\repos\RajamTest\RajamTest\bin\Debug\netcoreapp2.0\RajamTest.dll
+C:\Users\venkatesh.j\source\repos\RajamTest\RajamTest\bin\Debug\netcoreapp2.0\RajamTest.pdb
+C:\Users\venkatesh.j\source\repos\RajamTest\RajamTest\obj\Debug\netcoreapp2.0\RajamTest.csprojResolveAssemblyReference.cache
+C:\Users\venkatesh.j\source\repos\RajamTest\RajamTest\obj\Debug\netcoreapp2.0\RajamTest.csproj.CoreCompileInputs.cache
+C:\Users\venkatesh.j\source\repos\RajamTest\RajamTest\obj\Debug\netcoreapp2.0\RajamTest.AssemblyInfoInputs.cache
+C:\Users\venkatesh.j\source\repos\RajamTest\RajamTest\obj\Debug\netcoreapp2.0\RajamTest.AssemblyInfo.cs
+C:\Users\venkatesh.j\source\repos\RajamTest\RajamTest\obj\Debug\netcoreapp2.0\RajamTest.dll
+C:\Users\venkatesh.j\source\repos\RajamTest\RajamTest\obj\Debug\netcoreapp2.0\RajamTest.pdb
